@@ -2,7 +2,7 @@
 import sys
 
 
-ans = 0
+ans = 1
 for line in sys.stdin:
     try:     
        ans += int(line)
