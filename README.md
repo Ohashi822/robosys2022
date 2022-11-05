@@ -7,7 +7,7 @@
 ＊［ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022://ryuichiuedaa)
 
 ## 必要なソフトウェア
-* PYthon
+* Python
 
 ##　テスト環境
 * Ubuntu22.04
