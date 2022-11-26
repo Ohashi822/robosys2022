@@ -3,7 +3,7 @@
 *このソフトウェアパッケージはロボットシステム学の講義で使用するためのものである.
 *このソフトウェアパッケージは、3条項BCDライセンスの下，再配布および使用が許可されます．
 *このパッケージのコードは,下記のスライド（　CCーBYーSA　4.0 by Ryuichi Ueda)ものを，本人の許可を得て自作の著作としたものです．
-*［ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022:/ryuichiueda)
+*［ryuichiueda/my_slides_robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022:/ryuichiueda)
 
 ## 必要なソフトウェア
 * Python 3.7　～　3.10
