@@ -9,11 +9,11 @@ $ git clone https://github.com/Ohashi822/robosys2022.git
 
 ## plusコマンド
 ![test](https://github.com/Ohashi822/robosys2022/actions/workflows/test.yml/badge.svg)
-* 標準入力をした数字を順番に足し算する.{例:(seq 10 | ./plus) →　55}
+* 標準入力をした数字を順番に足し算する. {例:(seq 10 | ./plus) →　55}
 
 ## 必要なソフトウェア
 * Python　3.7 ～ 3.10
-©　2022　Kazuma Ohashi
+
 
 ## テスト環境
 * Ubuntu22.04では動作確認済み.
