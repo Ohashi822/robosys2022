@@ -2,7 +2,7 @@ robosys2022
 
 インストール方法 
 ```
-git clone https://github.com/Ohashi822/robosys2022.git
+$ git clone https://github.com/Ohashi822/robosys2022.git
 ```
 ## plusコマンド
 ![test](https://github.com/Ohashi822/robosys2022/actions/workflows/test.yml/badge.svg)
@@ -20,7 +20,7 @@ git clone https://github.com/Ohashi822/robosys2022.git
 * ［ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## テスト環境
-* Ubuntu22.04
+* Ubuntu22.04では動作確認済み.
 
 ©　2022　Kazuma Ohashi
 
