@@ -5,7 +5,7 @@ robosys2022
 ## このレポジトリについて
 * このソフトウェアパッケージはロボットシステム学を学習するためのものである.
 
-インストール方法 
+## インストール方法 
 ```
 $ git clone https://github.com/Ohashi822/robosys2022.git
 $ cd robosys2022
