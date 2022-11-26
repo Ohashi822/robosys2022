@@ -3,7 +3,7 @@ robosys2022
 ![test](https://github.com/Ohashi822/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## このレポジトリについて
-* このソフトウェアパッケージはロボットシステム学の講義で使用するためのものである.
+* このソフトウェアパッケージはロボットシステム学の講義で学習をするためのものである.
 
 インストール方法 
 ```
@@ -29,5 +29,5 @@ $ cd robosys2022
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
  
 
-©　2022　Kazuma Ohashi
+* © 2022 Kazuma Ohashi
 
